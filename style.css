@@ -10,10 +10,11 @@ body {
 	height: 100vh;
 	flex-direction: column;
 	font-family: sans-serif;
+	background: #1d1d21;
 }
 a {
 	display: block;
-	background: #00A9D4;
+	background: #004c9e;
 	color: #fff;
 	padding: 15px;
 	cursor: pointer;
@@ -24,14 +25,14 @@ a {
 	font-size: 20px;
 }
 a:hover {
-	background: #00729D;
+	background: #004c9e;
 }
 .btn-2 {
-	background: #F98909;
+	background: #004c9e;
 }
 
 .btn-2:hover {
-	background: #DC6C11;
+	background: #004c9e;
 }
 p {
 	color: #888;
